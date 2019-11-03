@@ -51,10 +51,17 @@ output:
 ![output lab 3](https://user-images.githubusercontent.com/56498195/68079082-0e0d5080-fe16-11e9-97af-75d011a93382.PNG)
 
 print('{1:>3} {0:>16}'.format(0, 10 ** 0))
+contoh code:
+
+
+![lab 4](https://user-images.githubusercontent.com/56498195/68079083-182f4f00-fe16-11e9-9e5d-b60710b55c89.PNG)
+
+
+
 Output yang didapat :
 
 
-
+![output lab 4](https://user-images.githubusercontent.com/56498195/68079089-1feef380-fe16-11e9-9e9b-49066be55303.PNG)
 
 
 
