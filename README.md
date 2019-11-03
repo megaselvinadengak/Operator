@@ -39,6 +39,23 @@ output:
 
 
 
+Misalnya dalam contoh di atas, terdapat argument "0" dan "10 ** 0" didalam format(0, 10 ** 0), yang dipisah dengan tanda "," (koma), yang berarti "0" adalah argument pertama dan "10**0" adalah argument ke dua. Sedangkan angka 0 dan 1 di dalam placeholder, merupakan urutan yang kita masukan. Misalnya placeholder pada urutan pertama yaitu "{0:>3}" dan kita ingin mengganti menjadi "1" maka yang akan dicetak di placeholder pertama adalah output dari "10 ** 0". Contoh kode :
+
+
+![lab 3](https://user-images.githubusercontent.com/56498195/68079080-05b51580-fe16-11e9-9d52-7682bf724b45.PNG)
+
+
+output:
+
+
+![output lab 3](https://user-images.githubusercontent.com/56498195/68079082-0e0d5080-fe16-11e9-97af-75d011a93382.PNG)
+
+print('{1:>3} {0:>16}'.format(0, 10 ** 0))
+Output yang didapat :
+
+
+
+
 
 
 
