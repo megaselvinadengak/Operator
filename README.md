@@ -26,7 +26,15 @@ Penggunaan string format
 String format digunakan ketika kita ingin mengatur dan memposiskan print output menjadi sedemikian rupa.
 Contoh kode :
 
+![lab 2](https://user-images.githubusercontent.com/56498195/68079043-30eb3500-fe15-11e9-95fa-7a46b1171af3.PNG)
+
+
+
 Dalam contoh di atas terdapat { } yang berfungsi sebagai placeholder atau penempat arguments. Argument secara default urutannya adalah berurutan.
+
+output:
+
+
 
 
 
