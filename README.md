@@ -35,6 +35,12 @@ Dalam contoh di atas terdapat { } yang berfungsi sebagai placeholder atau penemp
 output:
 
 
+![output lab 2](https://user-images.githubusercontent.com/56498195/68079061-917a7200-fe15-11e9-8d09-b927762b0b19.PNG)
+
+
+
+
+
 
 
 
