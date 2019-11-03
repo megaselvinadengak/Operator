@@ -65,6 +65,10 @@ Output yang didapat :
 
 
 
+Lab2
+Lab2 membahas tentang bagaimana memasukan input, menghitung dan mengubah tipe data serta membuat format print yang akan dicetak ke output.
+
+Contoh kode :
 
 
 
